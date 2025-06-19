@@ -4,7 +4,7 @@ Hi 👋 My name is Lucas Hasting
 Student in IT and Computer Science
 ----------------------------------
 
-I am a sophomore at the University of North Alabama majoring in Computer Science and Information Technology with a concentration in Software Development
+I am a senior at the University of North Alabama majoring in Computer Science, Mathematics, and Information Technology with a concentration in Software Development. I am also minoring in Data Analytics and Cyber Security.
 
 * 🖥️  Check out my [portfolio](http://lucashasting.github.io/Portfolio/) and [resume](https://github.com/LucasHasting/Portfolio/blob/main/documents/Hasting_Resume_2024.pdf)
 * ✉️  You can contact me at [lucashasting03@gmail.com](mailto:lucashasting03@gmail.com)
