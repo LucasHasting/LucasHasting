@@ -4,7 +4,7 @@ Hi 👋 My name is Lucas Hasting
 Graduate Student in Computer Science
 ----------------------------------
 
-I am a graduate student at the University of Alabama majoring in Computer Science.
+I have a B.S. in Computer Science, Information Technology, and Mathematics with minors in Data Analytics and Cybersecurity. I am a graduate student at the University of Alabama majoring in Computer Science.
 
 * 🖥️  Check out my [portfolio](http://lucashasting.github.io/Portfolio/) and [resume](https://github.com/LucasHasting/Portfolio/blob/main/documents/Hasting_Resume_2026.pdf).
 * ✉️  You can contact me at [lucashasting03@gmail.com](mailto:lucashasting03@gmail.com).
