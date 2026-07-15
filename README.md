@@ -11,3 +11,17 @@ I have a B.S. in Computer Science, Information Technology, and Mathematics with 
 * ⚡  Currently hold the following CompTIA Certifications: ITF+, A+, Network+, Security+, and Linux+.
 
 <a href="https://www.linkedin.com/in/lucas-hasting-969970224" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Highlighted Projects
+
+Python - [Machine Learning Models for SERPINA1](https://github.com/LucasHasting/Prediction-CODE)
+
+Python - [Defeating Bosses in Kirby's Dream Land using Deep Reinforcement Learning](https://github.com/LucasHasting/KDL-DL-Project)
+
+C++ - [Tower Defense Game (Fish)](https://github.com/LucasHasting/Fish)
+
+C++ - [Risk Tracking System](https://github.com/LucasHasting/CS-Capstone-Incomplete)
+
+C - [PC-0 Parser](https://github.com/LucasHasting/PC-0-Parser)
+
+6502 Assembly - [Pseudo-Random Number Generator](https://github.com/LucasHasting/PRNG)
